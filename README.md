@@ -47,6 +47,7 @@
 - **[Nuxt.js](https://nuxtjs.org/)** - A framework for Vue.js apps with server-side rendering.
 - **[EJS](https://ejs.co/)** - A simple templating engine for embedding JavaScript in HTML.
 - **[Pug](https://pugjs.org/)** - A template engine with a clean syntax.
+- **[Sidemail](https://sidemail.io/docs/send-emails-with-nodejs/)** – Email API + Node.js SDK for transactional email sending and management.
 
 ## API Development
 
